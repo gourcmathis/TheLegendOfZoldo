@@ -12,7 +12,7 @@ public class Inventory : MonoBehaviour
     public Text keysCountText;
 
     public static Inventory instance;
-
+ 
     public LevelLoader levelLoader;
 
 
